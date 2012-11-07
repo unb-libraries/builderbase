@@ -1,4 +1,5 @@
 name = 'Minima'
+project = builderbase
 description = 'Minimal and clean- excellent as-is, or as the starting point for your own creation.'
 version = '1.30'
 core = '7.x'
