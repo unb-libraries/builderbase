@@ -2,7 +2,7 @@ name = 'Minima'
 project = builderbase
 description = 'Minimal and clean- excellent as-is, or as the starting point for your own creation.'
 core = '7.x'
-version = 7.x-1.02
+version = 7.x-1.01
 project status url = http://systems.lib.unb.ca/updates
 
 engine = 'phptemplate'
